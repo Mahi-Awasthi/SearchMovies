@@ -22,7 +22,8 @@ function App() {
   return (
     // react fragment - <> </> if more than one elements...then u need to wrap them around the react fragment
     <div className="app">
-      <h1>All time Popular Movies</h1>
+      <h1>SearchMovies</h1>
+      <h4>Discover Your Next Favorite</h4>
       <div className="search">
       <input 
         type="text" 
